@@ -1,0 +1,42 @@
+[
+ {
+  "Name": "PASSIVE - Cisco ASA Device Found", 
+  "Active": false, 
+  "Scanner": 2, 
+  "Payloads": [], 
+  "Encoder": [], 
+  "UrlEncode": false, 
+  "CharsToUrlEncode": "", 
+  "Grep": [
+   "+CSCOE+"
+  ], 
+  "PayloadResponse": false, 
+  "NotResponse": false, 
+  "NotCookie": false, 
+  "TimeOut": 0, 
+  "isTime": false, 
+  "CaseSensitive": false, 
+  "isReplace": false, 
+  "ExcludeHTTP": false, 
+  "OnlyHTTP": false, 
+  "IsContentType": false, 
+  "ContentType": "", 
+  "NegativeCT": false, 
+  "IsResponseCode": false, 
+  "ResponseCode": "", 
+  "NegativeRC": false, 
+  "MatchType": 1, 
+  "RedirType": 0, 
+  "MaxRedir": 0, 
+  "rCookies": false, 
+  "spaceEncode": false, 
+  "payloadPosition": 0, 
+  "IssueName": "Cisco ASA Device Found (Passive)", 
+  "IssueSeverity": "High", 
+  "IssueConfidence": "Certain", 
+  "IssueDetail": "Cisco ASA Device Found (Passive)", 
+  "RemediationDetail": "Cisco ASA Device Found (Passive)", 
+  "IssueBackground": "Cisco ASA Device Found (Passive)", 
+  "RemediationBackground": "Cisco ASA Device Found (Passive)"
+ }
+]
