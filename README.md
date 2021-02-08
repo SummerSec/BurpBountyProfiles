@@ -1,0 +1,2 @@
+# BurpBountyProfiles
+BurpBounty插件的配置文件收集项目
